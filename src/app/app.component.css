@@ -1,0 +1,12 @@
+main{
+  margin-top: 1rem;
+  width: 80%;
+  margin: auto;
+}
+h1 {
+  text-align:center
+}
+
+mat-drawer-content {
+  padding: 20px;
+}

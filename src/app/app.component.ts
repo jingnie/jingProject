@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'jingProject';
+  title = 'D3.js with Angular!';
+
+  examples = [
+    {
+      route: '/line-chart'
+    },
+  ];
 }
