@@ -1,5 +1,7 @@
 this isthe lineChart look like
 <img width="1136" alt="line_chart" src="https://user-images.githubusercontent.com/24320585/49344295-c1842880-f63a-11e8-810b-c7a2b47bd92d.png">
+this is the dataBaseChart look like
+<img width="1136" alt="line_chart" src="https://user-images.githubusercontent.com/24320585/49344238-12dfe800-f63a-11e8-9a5a-2d7cb49d0c1c.png">
 
 # JingProject
 
